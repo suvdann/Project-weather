@@ -23,10 +23,10 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[140px] h-[140px] border border-grey-300 rounded-full overflow-hidden  "></div>
-        <div className="z-5 absolute z- top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[340px] h-[340px] border border-grey-300 rounded-full overflow-hidden  "></div>
-        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[540px] h-[540px] border border-grey-300 rounded-full overflow-hidden  "></div>
-        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[940px] h-[940px] border border-grey-300 rounded-full overflow-hidden  "></div>
+        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[140px] h-[140px] border border-gray-400 rounded-full overflow-hidden  "></div>
+        <div className="z-5 absolute z- top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[340px] h-[340px] border border-gray-400  rounded-full overflow-hidden  "></div>
+        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[540px] h-[540px] border border-gray-400  rounded-full overflow-hidden  "></div>
+        <div className="z-5 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[940px] h-[940px] border border-gray-400  rounded-full overflow-hidden  "></div>
 
         {/* <div className=" absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1340px] h-[1340px] border border-grey-300 rounded-full overflow-hidden  "></div> */}
 
